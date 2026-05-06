@@ -1,3 +1,4 @@
 console.log("apna collage")
 <br>
-author - avijit samanta
+author - avijit computer service 
+
